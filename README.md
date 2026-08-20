@@ -11,7 +11,7 @@ This is a link -> [The Word](https://www.merriam-webster.com/word-of-the-day).
 
 Hey, check out this **cool** 
 
-![image of a dog](https://www.thelabradorsite.com/black-labrador/)
+![image of a dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3K_I0ETmBnh94vpyeJ9lG5v-eB-gSY3_FUGai-0_ytnNxS3Od46Z_DI&s=10)
 
 ### Journal Example
 
